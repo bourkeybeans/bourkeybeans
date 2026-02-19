@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm a Computer Science with Artificial Intelligence student at the University of Nottingham.  
+I enjoy building projects, learning new technologies, and participating in hackathons.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/finley-bourke-b63916213/) 
