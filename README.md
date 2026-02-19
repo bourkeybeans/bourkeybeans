@@ -13,5 +13,6 @@ I enjoy building projects, learning new technologies, and participating in hacka
 ![](https://github-readme-stats.vercel.app/api?username=bourkeybeans&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=bourkeybeans&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=bourkeybeans&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bourkeybeans&layout=compact&theme=default" alt="En Çok Kullanılan Diller" />
 
 
